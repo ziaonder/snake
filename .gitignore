@@ -1,1 +1,24 @@
 .vs/
+
+# Build and binary files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+
+# Visual Studio files
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+ipch/
+.vscode/
+
+# CMake & Build directories
+CMakeCache.txt
+CMakeFiles/
+build/
+Debug/
+Release/
+x64/
