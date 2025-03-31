@@ -1,12 +1,5 @@
-﻿  Main.cpp
-D:\C++\Snake\Main.cpp(9,64): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
-D:\C++\Snake\Main.cpp(9,64): warning C4244:         with
-D:\C++\Snake\Main.cpp(9,64): warning C4244:         [
-D:\C++\Snake\Main.cpp(9,64): warning C4244:             T=float
-D:\C++\Snake\Main.cpp(9,64): warning C4244:         ]
-D:\C++\Snake\Main.cpp(9,50): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
-D:\C++\Snake\Main.cpp(9,50): warning C4244:         with
-D:\C++\Snake\Main.cpp(9,50): warning C4244:         [
-D:\C++\Snake\Main.cpp(9,50): warning C4244:             T=float
-D:\C++\Snake\Main.cpp(9,50): warning C4244:         ]
+﻿  Snake.cpp
+D:\C++\Snake\Snake.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Snake.cpp')
+  
   Snake.vcxproj -> D:\C++\Snake\x64\Debug\Snake.exe
