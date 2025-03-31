@@ -1,24 +1,46 @@
+# Ignore Visual Studio temporary files, build results, and
+# other generated files.
 .vs/
-
-# Build and binary files
-*.exe
-*.obj
-*.pdb
-*.ilk
-*.log
-
-# Visual Studio files
+*.vcxproj.user
+*.vcxproj.filters
 *.suo
 *.user
-*.VC.db
-*.VC.opendb
-ipch/
-.vscode/
+*.ipch
+*.obj
+*.pch
+*.idb
+*.pdb
+*.log
+*.tlog
+*.lastbuildstate
+*.opensdf
+*.sdf
+*.cache
+*.ilk
+*.aps
+*.ncb
+*.res
+*.exe
+*.dll
+*.lib
+*.exp
 
-# CMake & Build directories
-CMakeCache.txt
-CMakeFiles/
-build/
+# Ignore build directories
+x64/
+Snake/x64/
 Debug/
 Release/
-x64/
+
+# Ignore SFML binaries
+sfml/bin/
+sfml/lib/
+
+# Ignore Copilot indices
+.vs/Snake/CopilotIndices/
+.vs/Snake/FileContentIndex/
+
+# Ignore other temporary files
+*.tmp
+*.log
+*.bak
+*.swp
