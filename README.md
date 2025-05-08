@@ -1,6 +1,4 @@
 Gameplay Video
 
-<video width="600" controls>
-  <source src="snake_gameplay.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/59a4d3f3-2697-4978-87cd-0c78f2de7cfe
+
